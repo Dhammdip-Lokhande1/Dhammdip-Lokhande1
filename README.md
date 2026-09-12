@@ -48,5 +48,103 @@ class DhammdipLokhande:
             "Let's build something with data 🔬"
         )
 
+
 me = DhammdipLokhande()
 me.say_hi()
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhammdip%20Lokhande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhammdip-lokhande)
+
+[![Gmail](https://img.shields.io/badge/Gmail-dhammdiplokhande1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhammdiplokhande1@gmail.com)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Dhammdip-Lokhande1&theme=tokyonight&hide_border=true" height="180" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🏆 Developer Achievements
+
+<div align="center">
+
+| 🐍 Python | 🤖 Machine Learning | 📊 Data Analytics |
+|:---:|:---:|:---:|
+| Building Python projects | Developing ML solutions | Exploring meaningful insights |
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhammdip-Lokhande1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Contribution Statistics"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+📚 Deepening Machine Learning & model evaluation skills
+
+🛠️ Building end-to-end data science projects
+
+🧠 Learning Deep Learning & Neural Networks
+
+💼 Preparing for Data Science internships & roles
+```
+
+---
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+> *"Consistent learning beats temporary motivation — every single time."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
